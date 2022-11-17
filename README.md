@@ -1,2 +1,1 @@
-# GRT
-The frontend for The Goritoto (GRT) NFT marketplace.
+# Metaplex Candy Machine Reference UI
