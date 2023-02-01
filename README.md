@@ -1,1 +1,1 @@
-The Goritoto NFT Collection (GRT) User Interface and Experience Frontend Client
+The long awaited Solana NFT Collection Pack on steroids template, purchase an NFT by clicking the minting button on this pretty nifty landing page. View your collectible in any Solana custodial Web 3.0 wallet Collectible tab. No extra features were implemented in this project just buying and collecting your NFT.
